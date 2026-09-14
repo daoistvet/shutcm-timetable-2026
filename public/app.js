@@ -462,6 +462,7 @@ function renderWeek() {
       card.innerHTML = `<span class="cc-name">${esc(e.course)}${e.jianxi ? esc(t("jianxiName")) : ""}</span>`
         + (e.subtitle ? `<span class="cc-sub">${esc(e.subtitle)}</span>` : "")
         + `<span class="cc-meta">${esc(entryClock(e))}${e.time ? " · " + esc(e.time) : ""}</span>`
+        + (e.teachers && e.teachers.length ? `<span class="cc-meta cc-teachers">👤${esc(e.teachers.join("、"))}</span>` : "")
         + `<span class="cc-chips">${chips.join("")}</span>`;
       card.onclick = () => openEntryModal(e);
       holder.appendChild(card);
