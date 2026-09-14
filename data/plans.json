@@ -1,0 +1,240 @@
+{
+  "2024": {
+    "program": "中医",
+    "programEn": "Chinese Medicine (TCM)",
+    "source": "2024年中医学专业指导性教学计划.pdf (国际教育学院, 2024年5月)",
+    "degree": {
+      "totalCredits": 280,
+      "mandatory": 163.5,
+      "elective": 34.5,
+      "practice": 82,
+      "electiveOffered": 107.5,
+      "durationYears": 5,
+      "degreeEn": "Bachelor of Medicine (MB BS)"
+    },
+    "modules": [
+      {"kind": "必修", "name": "公共基础课程", "count": 8, "credits": 18.5},
+      {"kind": "必修", "name": "医学基础课程", "count": 11, "credits": 66},
+      {"kind": "必修", "name": "临床医学课程", "count": 11, "credits": 57},
+      {"kind": "必修", "name": "古籍经典课程", "count": 5, "credits": 20},
+      {"kind": "必修", "name": "公共艺术课程", "count": 1, "credits": 2},
+      {"kind": "实践", "name": "实践课（学年实践/毕业实习培训/毕业实习/毕业水平考试）", "count": 11, "credits": 82},
+      {"kind": "选修", "name": "汉语强化课程", "count": 2, "credits": 4},
+      {"kind": "选修", "name": "医学人文课程", "count": 8, "credits": 21},
+      {"kind": "选修", "name": "医学基础课程", "count": 6, "credits": 16},
+      {"kind": "选修", "name": "针推辅修课程", "count": 8, "credits": 28.5},
+      {"kind": "选修", "name": "中药课程", "count": 3, "credits": 8},
+      {"kind": "选修", "name": "临床医学课程", "count": 8, "credits": 23},
+      {"kind": "选修", "name": "英语课程", "count": 2, "credits": 7}
+    ],
+    "years": [
+      {
+        "year": 1,
+        "semesters": [
+          {
+            "term": 1,
+            "mandatoryCredits": 23,
+            "electiveCredits": 5,
+            "practiceCredits": 0,
+            "courses": [
+              {"code": "99.002.9.4", "name": "新生导航", "credits": 2, "hours": 28, "kind": "必修"},
+              {"code": "01.021.9.2", "name": "中医基础理论", "credits": 9, "hours": 126, "kind": "必修"},
+              {"code": "01.111.9.2", "name": "正常人体解剖学", "credits": 7, "hours": 98, "kind": "必修"},
+              {"code": "99.003.9.1", "name": "中医汉语（一）", "credits": 3, "hours": 42, "kind": "必修"},
+              {"code": "99.002.9.3", "name": "艺术欣赏与实践", "credits": 2, "hours": 28, "kind": "必修"},
+              {"code": "01.124.9.1", "name": "化学基础", "credits": 2, "hours": 28, "kind": "选修"},
+              {"code": "07.011.9.1", "name": "保健体育（一）", "credits": 3, "hours": 42, "kind": "选修"}
+            ]
+          },
+          {
+            "term": 2,
+            "mandatoryCredits": 19.5,
+            "electiveCredits": 7,
+            "practiceCredits": 0,
+            "courses": [
+              {"code": "01.031.9.2", "name": "中医诊断学", "credits": 8, "hours": 112, "kind": "必修"},
+              {"code": "01.161.9.1", "name": "组织胚胎学", "credits": 3.5, "hours": 49, "kind": "必修"},
+              {"code": "01.121.9.1", "name": "医用化学", "credits": 3, "hours": 42, "kind": "必修"},
+              {"code": "99.003.9.2", "name": "中医汉语（二）", "credits": 3, "hours": 42, "kind": "必修"},
+              {"code": "08.071.9.1", "name": "中国概况（一）", "credits": 2, "hours": 28, "kind": "必修"},
+              {"code": "01.141.9.1", "name": "医学细胞生物学", "credits": 4, "hours": 56, "kind": "选修"},
+              {"code": "07.011.9.2", "name": "保健体育（二）", "credits": 3, "hours": 42, "kind": "选修"}
+            ]
+          },
+          {
+            "term": 3,
+            "mandatoryCredits": 0,
+            "electiveCredits": 5.5,
+            "practiceCredits": 8,
+            "courses": [
+              {"code": "10.005.9.1", "name": "基础护理", "credits": 2, "hours": 28, "kind": "选修"},
+              {"code": "08.071.9.2", "name": "中国概况（二）", "credits": 2, "hours": 28, "kind": "选修"},
+              {"code": "04.021.9.1", "name": "推拿功法（一）", "credits": 1.5, "hours": 21, "kind": "选修"},
+              {"code": "12.001.9.1", "name": "中医诊法技能训练", "credits": 1, "hours": 14, "kind": "实践"},
+              {"code": "10.031.9.1", "name": "中诊系列讲座", "credits": 2, "hours": 28, "kind": "实践"},
+              {"code": "10.001.9.8", "name": "人文社会实践（一）", "credits": 1, "hours": 14, "kind": "实践"},
+              {"code": "10.006.9.3", "name": "教学实践（一）", "credits": 4, "hours": "56（2周）", "kind": "实践"}
+            ]
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semesters": [
+          {
+            "term": 1,
+            "mandatoryCredits": 19.5,
+            "electiveCredits": 14,
+            "practiceCredits": 1,
+            "courses": [
+              {"code": "03.091.9.2", "name": "中药学", "credits": 9, "hours": 126, "kind": "必修"},
+              {"code": "01.121.9.4", "name": "生物化学", "credits": 6.5, "hours": 91, "kind": "必修"},
+              {"code": "01.151.9.2", "name": "生理学", "credits": 4, "hours": 56, "kind": "必修"},
+              {"code": "04.021.9.2", "name": "推拿功法（二）", "credits": 1.5, "hours": 21, "kind": "选修"},
+              {"code": "08.022.9.1", "name": "中国传统文化与中医", "credits": 3, "hours": 42, "kind": "选修"},
+              {"code": "01.133.9.1", "name": "微生物与免疫", "credits": 5, "hours": 70, "kind": "选修"},
+              {"code": "01.071.9.2", "name": "医古文基础", "credits": 2, "hours": 28, "kind": "选修"},
+              {"code": "18.077.9.1", "name": "中医导引学", "credits": 2.5, "hours": 35, "kind": "选修"},
+              {"code": "99.002.9.2", "name": "人文教育", "credits": 1, "hours": 14, "kind": "实践"}
+            ]
+          },
+          {
+            "term": 2,
+            "mandatoryCredits": 17,
+            "electiveCredits": 12.5,
+            "practiceCredits": 0,
+            "courses": [
+              {"code": "03.094.9.2", "name": "方剂学", "credits": 8, "hours": 112, "kind": "必修"},
+              {"code": "01.071.9.3", "name": "医古文", "credits": 5, "hours": 70, "kind": "必修"},
+              {"code": "01.171.9.2", "name": "病理学", "credits": 4, "hours": 56, "kind": "必修"},
+              {"code": "01.201.9.1", "name": "普通心理学", "credits": 2.5, "hours": 35, "kind": "选修"},
+              {"code": "02.023.9.1", "name": "经络腧穴学", "credits": 4, "hours": 56, "kind": "选修"},
+              {"code": "04.022.9.6", "name": "推拿手法学", "credits": 3.5, "hours": 49, "kind": "选修"},
+              {"code": "01.041.9.1", "name": "中国医学史", "credits": 2.5, "hours": 35, "kind": "选修"}
+            ]
+          },
+          {
+            "term": 3,
+            "mandatoryCredits": 0,
+            "electiveCredits": 7,
+            "practiceCredits": 9,
+            "courses": [
+              {"code": "03.103.9.2", "name": "中医药膳学", "credits": 2.5, "hours": 35, "kind": "选修"},
+              {"code": "01.079.9.1", "name": "沪语", "credits": 2, "hours": 28, "kind": "选修"},
+              {"code": "01.202.9.1", "name": "医学心理学", "credits": 2.5, "hours": 35, "kind": "选修"},
+              {"code": "05.024.9.2", "name": "医患沟通技能训练", "credits": 2, "hours": 28, "kind": "实践"},
+              {"code": "10.001.9.9", "name": "人文社会实践（二）", "credits": 3, "hours": 42, "kind": "实践"},
+              {"code": "10.008.9.5", "name": "教学实践（二）（含健康服务基本技能）", "credits": 4, "hours": "56（2周）", "kind": "实践"}
+            ]
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semesters": [
+          {
+            "term": 1,
+            "mandatoryCredits": 22.5,
+            "electiveCredits": 8,
+            "practiceCredits": 0,
+            "courses": [
+              {"code": "09.021.9.1", "name": "中医内科学（一）", "credits": 7, "hours": 98, "kind": "必修"},
+              {"code": "09.031.9.9", "name": "诊断学基础", "credits": 5, "hours": 70, "kind": "必修"},
+              {"code": "09.031.9.6", "name": "影像诊断学", "credits": 1.5, "hours": 21, "kind": "必修"},
+              {"code": "01.101.9.1", "name": "内经选读", "credits": 4, "hours": 56, "kind": "必修"},
+              {"code": "01.071.9.5", "name": "中医文体写作（一）", "credits": 1, "hours": 14, "kind": "必修"},
+              {"code": "03.022.9.1", "name": "药理学", "credits": 4, "hours": 56, "kind": "必修"},
+              {"code": "02.031.9.5", "name": "刺法灸法学", "credits": 4, "hours": 56, "kind": "选修"},
+              {"code": "09.031.9.4", "name": "影像新技术的临床应用", "credits": 1.5, "hours": 21, "kind": "选修"},
+              {"code": "07.013.9.4", "name": "单项体育俱乐部", "credits": 2.5, "hours": 35, "kind": "选修"}
+            ]
+          },
+          {
+            "term": 2,
+            "mandatoryCredits": 22.5,
+            "electiveCredits": 11,
+            "practiceCredits": 0,
+            "courses": [
+              {"code": "09.021.9.2", "name": "中医内科学（二）", "credits": 7, "hours": 98, "kind": "必修"},
+              {"code": "09.033.9.4", "name": "西医内科学", "credits": 5, "hours": 70, "kind": "必修"},
+              {"code": "09.051.9.1", "name": "西医外科学", "credits": 4, "hours": 56, "kind": "必修"},
+              {"code": "01.091.9.1", "name": "伤寒论选读", "credits": 4, "hours": 56, "kind": "必修"},
+              {"code": "01.071.9.6", "name": "中医文体写作（二）", "credits": 1, "hours": 14, "kind": "必修"},
+              {"code": "08.031.9.1", "name": "医学伦理学", "credits": 1.5, "hours": 21, "kind": "必修"},
+              {"code": "01.114.9.1", "name": "腧穴解剖学", "credits": 4, "hours": 56, "kind": "选修", "note": "原课程名为针推穴位应用解剖"},
+              {"code": "04.022.9.5", "name": "推拿人体操作", "credits": 3.5, "hours": 49, "kind": "选修"},
+              {"code": "05.006.9.1", "name": "医学英语", "credits": 3.5, "hours": 49, "kind": "选修"}
+            ]
+          },
+          {
+            "term": 3,
+            "mandatoryCredits": 0,
+            "electiveCredits": 8,
+            "practiceCredits": 10,
+            "courses": [
+              {"code": "03.062.9.1", "name": "中药炮制学", "credits": 3, "hours": 42, "kind": "选修"},
+              {"code": "03.024.9.1", "name": "中药药理学", "credits": 2.5, "hours": 35, "kind": "选修"},
+              {"code": "04.026.9.3", "name": "小儿推拿学", "credits": 2.5, "hours": 35, "kind": "选修"},
+              {"code": "10.025.9.1", "name": "临床技能实训", "credits": 2, "hours": 28, "kind": "实践"},
+              {"code": "10.010.9.2", "name": "教学实践（三）（含全科医学概论与社区实践）", "credits": 8, "hours": "112（4周）", "kind": "实践"}
+            ]
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semesters": [
+          {
+            "term": 1,
+            "mandatoryCredits": 23,
+            "electiveCredits": 15.5,
+            "practiceCredits": 0,
+            "courses": [
+              {"code": "09.041.9.1", "name": "中医外科学", "credits": 6, "hours": 84, "kind": "必修"},
+              {"code": "01.061.9.1", "name": "金匮要略选读", "credits": 4, "hours": 56, "kind": "必修"},
+              {"code": "02.035.9.1", "name": "针灸学", "credits": 7, "hours": 98, "kind": "必修"},
+              {"code": "04.028.9.1", "name": "推拿学", "credits": 6, "hours": 84, "kind": "必修"},
+              {"code": "05.012.9.1", "name": "中医英语", "credits": 3.5, "hours": 49, "kind": "选修"},
+              {"code": "04.024.9.2", "name": "推拿古代文献", "credits": 2, "hours": 28, "kind": "选修"},
+              {"code": "09.141.9.3", "name": "中医眼科学", "credits": 3.5, "hours": 49, "kind": "选修"},
+              {"code": "09.081.9.1", "name": "中医耳鼻喉科学", "credits": 3.5, "hours": 49, "kind": "选修"},
+              {"code": "21.001.9.1", "name": "中医老年病学", "credits": 3, "hours": 42, "kind": "选修"}
+            ]
+          },
+          {
+            "term": 2,
+            "mandatoryCredits": 16.5,
+            "electiveCredits": 14,
+            "practiceCredits": 0,
+            "courses": [
+              {"code": "09.065.9.1", "name": "中医儿科学", "credits": 3.5, "hours": 49, "kind": "必修"},
+              {"code": "09.075.9.1", "name": "中医妇科学", "credits": 5, "hours": 70, "kind": "必修"},
+              {"code": "01.051.9.1", "name": "温病名著选读", "credits": 4, "hours": 56, "kind": "必修"},
+              {"code": "01.081.9.1", "name": "中医各家学说", "credits": 4, "hours": 56, "kind": "必修"},
+              {"code": "02.042.9.1", "name": "针灸各家著作", "credits": 2, "hours": 28, "kind": "选修"},
+              {"code": "02.032.9.3", "name": "针推治疗学", "credits": 5.5, "hours": 77, "kind": "选修"},
+              {"code": "09.091.9.1", "name": "中医骨伤科学", "credits": 4, "hours": 56, "kind": "选修"},
+              {"code": "09.025.9.1", "name": "中医肝病学", "credits": 2.5, "hours": 35, "kind": "选修"}
+            ]
+          }
+        ]
+      },
+      {
+        "year": 5,
+        "semesters": [
+          {
+            "term": 1,
+            "mandatoryCredits": 0,
+            "electiveCredits": 0,
+            "practiceCredits": 54,
+            "courses": [
+              {"code": "10.311.9.4", "name": "毕业实习培训（岗前培训）", "credits": 3, "hours": "42（2周）", "kind": "实践"},
+              {"code": "10.310.9.2", "name": "毕业实习", "credits": 48, "hours": "2112（48周）", "kind": "实践"},
+              {"code": "10.311.9.3", "name": "毕业水平考试", "credits": 3, "hours": "/", "kind": "实践"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

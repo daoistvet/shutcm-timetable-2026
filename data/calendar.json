@@ -1,0 +1,71 @@
+{
+  "source": "2026-2027学年校历（本科三学期制）, 上海中医药大学",
+  "periodTimes": {
+    "1": "8:00-8:40",
+    "2": "8:50-9:30",
+    "3": "9:40-10:20",
+    "4": "10:30-11:10",
+    "5": "11:20-12:00",
+    "6": "13:30-14:10",
+    "7": "14:20-15:00",
+    "8": "15:10-15:50",
+    "9": "16:00-16:40",
+    "10": "18:00-18:40",
+    "11": "18:50-19:30",
+    "12": "19:40-20:20"
+  },
+  "blocks": [
+    {"id": "morning", "periods": [1, 2, 3, 4, 5], "label": "上午", "labelEn": "Morning"},
+    {"id": "afternoon", "periods": [6, 7, 8, 9], "label": "下午", "labelEn": "Afternoon"},
+    {"id": "evening", "periods": [10, 11, 12], "label": "晚上", "labelEn": "Evening"}
+  ],
+  "semesters": [
+    {
+      "id": "S1",
+      "label": "第一学期",
+      "labelEn": "Semester 1",
+      "firstWeekMonday": "2026-09-14",
+      "weeks": 15,
+      "teachingWeeks": 14,
+      "examStart": "2026-12-19",
+      "examEnd": "2026-12-27",
+      "holidays": [
+        {"date": "2026-10-01", "label": "国庆节", "labelEn": "National Day"}
+      ],
+      "notes": [
+        {"label": "新生报到、入学教育、选课：2026年9月14日-9月18日；9月21日上课", "labelEn": "New students (2026 intake): registration & orientation 14-18 Sep; classes begin 21 Sep"},
+        {"label": "老生开课：2026年9月14日", "labelEn": "Returning students: classes begin 14 Sep"},
+        {"label": "考试周：2026年12月19日-12月27日", "labelEn": "Exam period: 19-27 Dec 2026"}
+      ]
+    },
+    {
+      "id": "S2",
+      "label": "第二学期",
+      "labelEn": "Semester 2",
+      "firstWeekMonday": "2026-12-28",
+      "weeks": 15,
+      "teachingWeeks": 15,
+      "examStart": "2027-05-08",
+      "examEnd": "2027-05-16",
+      "breaks": [
+        {"label": "寒假", "labelEn": "Winter break", "start": "2027-01-18", "end": "2027-02-21"}
+      ],
+      "holidays": [],
+      "notes": [
+        {"label": "校学生运动会：2027年4月21日", "labelEn": "University sports meet: 21 Apr 2027"},
+        {"label": "小学期见习：2027年5月17日", "labelEn": "Short-semester clinical attachment begins: 17 May 2027"}
+      ]
+    },
+    {
+      "id": "S3",
+      "label": "第三学期（小学期）",
+      "labelEn": "Semester 3 (short semester)",
+      "firstWeekMonday": "2027-05-17",
+      "weeks": 10,
+      "teachingWeeks": 8,
+      "notes": [
+        {"label": "第39-40周：暑期学校及科创活动", "labelEn": "Weeks 39-40: summer school & innovation activities"}
+      ]
+    }
+  ]
+}
